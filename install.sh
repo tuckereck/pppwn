@@ -9,4 +9,3 @@ wget https://github.com/tuckereck/pppwn/raw/main/pppwn
 chmod +x run.sh
 chmod +x kill.sh
 chmod +x pppwn
-opkg install luci-app-commands
